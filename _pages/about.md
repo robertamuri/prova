@@ -32,7 +32,7 @@ Previously, I worked at the International Monetary Fund in Washington, D.C. (201
 
 I hold a Master’s degree in Political Economy (1999) and a Ph.D. in Economics (2001) from Boston University and was a visiting scholar at Harvard University and the National Bureau of Economic Research (2005–06).
 
-I am the author of *[The Magic Money Tree and Other Economic Tales](https://www.amazon.com/Magic-Money-Other-Economic-Tales/dp/1788213653)* (2021), and *[Preventing the Greenlash](https://www.amazon.com/Preventing-Greenlash-Overcome-Opposition-Policies-ebook/dp/B0CW1DMDLJ)* (2024).
+I am the author of *[The Magic Money Tree and Other Economic Tales](https://www.amazon.com/Magic-Money-Other-Economic-Tales/dp/1788213653)* (2021), and *[Preventing the Greenlash - How to Overcome Opposition to Green Policies](https://www.amazon.com/Preventing-Greenlash-Overcome-Opposition-Policies-ebook/dp/B0CW1DMDLJ)* (2024).
 
 For a complete list of publications and working papers, please see my <a href="/assets/pdf/lorenzo-forni-cv.pdf" target="_blank" rel="noopener">CV</a>.
 
