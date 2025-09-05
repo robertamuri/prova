@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://robertamuri.github.io/prova/al-folio/sitemap.xml
+Sitemap: https://robertamuri.github.io/prova/sitemap.xml
