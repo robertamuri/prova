@@ -24,7 +24,7 @@ latest_posts:
   limit: 3
 ---
 
-# Lorenzo Forni
+Welcome to my personal website!
 
 I am Professor of Economic Policy at the [University of Padua](https://www.unipd.it/en), Head of the [Prometeia Think Tank](https://www.prometeia.it/en), and since 2025 Vice President of the Senior Board of the [Conselho das Finanças Públicas (CFP)](https://www.cfp.pt/), Portugal’s independent fiscal council.
 
@@ -34,5 +34,5 @@ I hold a Master’s degree in Political Economy (1999) and a Ph.D. in Economics 
 
 I am the author of *[The Magic Money Tree and Other Economic Tales](https://www.amazon.com/Magic-Money-Other-Economic-Tales/dp/1788213653)* (2021), and *[Preventing the Greenlash - How to Overcome Opposition to Green Policies](https://www.amazon.com/Preventing-Greenlash-Overcome-Opposition-Policies-ebook/dp/B0CW1DMDLJ)* (2024).
 
-For a complete list of publications and working papers, please see my <a href="/assets/pdf/lorenzo-forni-cv.pdf" target="_blank" rel="noopener">CV</a>.
+For a complete list of publications and working papers, please see my <a href="https://robertamuri.github.io/prova/lorenzo-forni-cv.pdf">CV</a>.
 
