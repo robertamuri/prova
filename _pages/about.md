@@ -34,7 +34,8 @@ I hold a Master’s degree in Political Economy (1999) and a Ph.D. in Economics 
 
 I am the author of *[The Magic Money Tree and Other Economic Tales](https://www.amazon.com/Magic-Money-Other-Economic-Tales/dp/1788213653)* (2021), and *[Preventing the Greenlash - How to Overcome Opposition to Green Policies](https://www.amazon.com/Preventing-Greenlash-Overcome-Opposition-Policies-ebook/dp/B0CW1DMDLJ)* (2024).
 
-For a complete list of publications and working papers, please see my <a href="https://robertamuri.github.io/prova/lorenzo-forni-cv.pdf">CV</a>.
+For a complete list of publications and working papers, please see my [CV]({{ '/assets/pdf/lorenzo-forni-cv.pdf' | relative_url }}).
+
 
 
 
